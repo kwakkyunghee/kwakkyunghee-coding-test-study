@@ -1,0 +1,15 @@
+package programmers;
+
+public class Average {
+    public double Average(int[] arr) {
+        double answer = 0;
+        double a=0;
+
+        for(int i=0; i<arr.length; i++){
+            a+=arr[i];
+        }
+        answer=a/arr.length;
+
+        return answer;
+    }
+}
