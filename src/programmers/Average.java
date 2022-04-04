@@ -10,6 +10,6 @@ public class Average {
         }
         answer=a/arr.length;
 
-        return answer;
+        return answer;//
     }
 }
