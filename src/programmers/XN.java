@@ -7,7 +7,7 @@ public class XN {
         int a=0;
         for(int i=0; i<n; i++){
 
-            answer[i]=a+x;
+            answer[i]=a+x;//
             a+=x;
 
         }
