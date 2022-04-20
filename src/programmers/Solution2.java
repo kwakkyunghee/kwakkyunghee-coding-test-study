@@ -15,6 +15,6 @@ public class Solution2 {
             else answer -= i;
         }
 
-        return answer;
+        return answer;///
     }
 }
