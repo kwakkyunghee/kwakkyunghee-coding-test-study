@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution3 {
+public class Solution0512 {
     public int solution(int n) {
         long num=n;
         int answer = 0;
