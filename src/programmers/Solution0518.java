@@ -18,6 +18,6 @@ public class Solution0518 {
             answer[i] = list.get(i);
         }
 
-        return answer;
+        return answer;//
     }
 }
